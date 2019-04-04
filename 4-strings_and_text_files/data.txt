@@ -1,0 +1,3 @@
+FirstName|LastName|Address|Phone
+Jane|Doe|100 S Main St, Seattle, WA 98104|206-111-1111
+Samuel|Doe|213 E Boston St, Seattle, WA 98102|206-111-1112
