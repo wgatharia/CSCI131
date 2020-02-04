@@ -1,5 +1,5 @@
 # csci131 
-Copyright (c) 2018-2019 William Gatharia
+Copyright (c) 2018-2020 William Gatharia
 This is an introductory course in programming using python. The course introduces loops, conditionals, functions, data types and variables. Examples will help sudents learn the core values of good programming processes and problem solving. The course covers internal documenting, use of packages and syntax.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
